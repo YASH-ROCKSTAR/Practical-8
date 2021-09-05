@@ -28,7 +28,7 @@
 .menu {
     list-style: none;
     float: left;
-    margin-right: 100px;
+    /* margin-right: 100px; */
 }
 .menu li {
     line-height: 70px;
